@@ -35,7 +35,7 @@
   "dependencies": {
     "cssmin": "^0.4.3",
     "minimist": "^1.2.0",
-    "node-sass": "^7.0.1"
+    "sass": "^1.49.9"
   },
   "devDependencies": {
     "cross-spawn": "2.0.0",
